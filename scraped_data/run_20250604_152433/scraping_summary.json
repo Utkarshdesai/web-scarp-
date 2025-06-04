@@ -1,0 +1,94 @@
+{
+  "timestamp": "20250604_152433",
+  "total_urls_attempted": 17,
+  "successful_scrapes": 0,
+  "failed_scrapes": 17,
+  "successful_companies": [],
+  "failed_urls": [
+    {
+      "url": "https://www.stripe.com",
+      "error": "Unexpected error during scrape URL: Status code 400. Bad Request - [{'code': 'unrecognized_keys', 'keys': ['retry_count', 'retry_delay'], 'path': [], 'message': 'Unrecognized key in body -- please review the v1 API documentation for request body changes'}]",
+      "timestamp": "20250604_152433"
+    },
+    {
+      "url": "https://www.plaid.com",
+      "error": "Unexpected error during scrape URL: Status code 400. Bad Request - [{'code': 'unrecognized_keys', 'keys': ['retry_count', 'retry_delay'], 'path': [], 'message': 'Unrecognized key in body -- please review the v1 API documentation for request body changes'}]",
+      "timestamp": "20250604_152433"
+    },
+    {
+      "url": "https://www.brex.com",
+      "error": "Unexpected error during scrape URL: Status code 400. Bad Request - [{'code': 'unrecognized_keys', 'keys': ['retry_count', 'retry_delay'], 'path': [], 'message': 'Unrecognized key in body -- please review the v1 API documentation for request body changes'}]",
+      "timestamp": "20250604_152433"
+    },
+    {
+      "url": "https://www.airwallex.com",
+      "error": "Unexpected error during scrape URL: Status code 400. Bad Request - [{'code': 'unrecognized_keys', 'keys': ['retry_count', 'retry_delay'], 'path': [], 'message': 'Unrecognized key in body -- please review the v1 API documentation for request body changes'}]",
+      "timestamp": "20250604_152433"
+    },
+    {
+      "url": "https://www.railway.app",
+      "error": "Unexpected error during scrape URL: Status code 400. Bad Request - [{'code': 'unrecognized_keys', 'keys': ['retry_count', 'retry_delay'], 'path': [], 'message': 'Unrecognized key in body -- please review the v1 API documentation for request body changes'}]",
+      "timestamp": "20250604_152433"
+    },
+    {
+      "url": "https://www.supabase.com",
+      "error": "Unexpected error during scrape URL: Status code 400. Bad Request - [{'code': 'unrecognized_keys', 'keys': ['retry_count', 'retry_delay'], 'path': [], 'message': 'Unrecognized key in body -- please review the v1 API documentation for request body changes'}]",
+      "timestamp": "20250604_152433"
+    },
+    {
+      "url": "https://www.prisma.io",
+      "error": "Unexpected error during scrape URL: Status code 400. Bad Request - [{'code': 'unrecognized_keys', 'keys': ['retry_count', 'retry_delay'], 'path': [], 'message': 'Unrecognized key in body -- please review the v1 API documentation for request body changes'}]",
+      "timestamp": "20250604_152433"
+    },
+    {
+      "url": "https://www.temporal.io",
+      "error": "Unexpected error during scrape URL: Status code 400. Bad Request - [{'code': 'unrecognized_keys', 'keys': ['retry_count', 'retry_delay'], 'path': [], 'message': 'Unrecognized key in body -- please review the v1 API documentation for request body changes'}]",
+      "timestamp": "20250604_152433"
+    },
+    {
+      "url": "https://www.dagster.io",
+      "error": "Unexpected error during scrape URL: Status code 400. Bad Request - [{'code': 'unrecognized_keys', 'keys': ['retry_count', 'retry_delay'], 'path': [], 'message': 'Unrecognized key in body -- please review the v1 API documentation for request body changes'}]",
+      "timestamp": "20250604_152433"
+    },
+    {
+      "url": "https://www.hashicorp.com",
+      "error": "Unexpected error during scrape URL: Status code 400. Bad Request - [{'code': 'unrecognized_keys', 'keys': ['retry_count', 'retry_delay'], 'path': [], 'message': 'Unrecognized key in body -- please review the v1 API documentation for request body changes'}]",
+      "timestamp": "20250604_152433"
+    },
+    {
+      "url": "https://www.grafana.com",
+      "error": "Unexpected error during scrape URL: Status code 429. Rate limit exceeded. Consumed (req/min): 11, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 57s, resets at Wed Jun 04 2025 09:55:33 GMT+0000 (Coordinated Universal Time) - No additional error details provided.",
+      "timestamp": "20250604_152433"
+    },
+    {
+      "url": "https://www.elastic.co",
+      "error": "Unexpected error during scrape URL: Status code 429. Rate limit exceeded. Consumed (req/min): 12, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 56s, resets at Wed Jun 04 2025 09:55:33 GMT+0000 (Coordinated Universal Time) - No additional error details provided.",
+      "timestamp": "20250604_152433"
+    },
+    {
+      "url": "https://www.mongodb.com",
+      "error": "Unexpected error during scrape URL: Status code 429. Rate limit exceeded. Consumed (req/min): 13, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 56s, resets at Wed Jun 04 2025 09:55:33 GMT+0000 (Coordinated Universal Time) - No additional error details provided.",
+      "timestamp": "20250604_152433"
+    },
+    {
+      "url": "https://www.replicate.com",
+      "error": "Unexpected error during scrape URL: Status code 429. Rate limit exceeded. Consumed (req/min): 14, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 56s, resets at Wed Jun 04 2025 09:55:33 GMT+0000 (Coordinated Universal Time) - No additional error details provided.",
+      "timestamp": "20250604_152433"
+    },
+    {
+      "url": "https://www.langchain.com",
+      "error": "Unexpected error during scrape URL: Status code 429. Rate limit exceeded. Consumed (req/min): 15, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 55s, resets at Wed Jun 04 2025 09:55:33 GMT+0000 (Coordinated Universal Time) - No additional error details provided.",
+      "timestamp": "20250604_152433"
+    },
+    {
+      "url": "https://www.together.ai",
+      "error": "Unexpected error during scrape URL: Status code 429. Rate limit exceeded. Consumed (req/min): 16, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 55s, resets at Wed Jun 04 2025 09:55:33 GMT+0000 (Coordinated Universal Time) - No additional error details provided.",
+      "timestamp": "20250604_152433"
+    },
+    {
+      "url": "https://www.firecrawl.dev",
+      "error": "Unexpected error during scrape URL: Status code 429. Rate limit exceeded. Consumed (req/min): 17, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 55s, resets at Wed Jun 04 2025 09:55:33 GMT+0000 (Coordinated Universal Time) - No additional error details provided.",
+      "timestamp": "20250604_152433"
+    }
+  ]
+}

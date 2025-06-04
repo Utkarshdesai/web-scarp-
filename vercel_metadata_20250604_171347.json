@@ -1,0 +1,60 @@
+{
+  "basic_info": {
+    "robots": "index, max-image-preview:large",
+    "description": "Vercel's Frontend Cloud gives developers the frameworks, workflows, and infrastructure to build a faster, more personalized web.",
+    "language": "en",
+    "title": "Vercel: Build and deploy the best web experiences with the Frontend Cloud"
+  },
+  "social_media": {
+    "twitter:description": "Vercel's Frontend Cloud gives developers the frameworks, workflows, and infrastructure to build a faster, more personalized web.",
+    "og:site_name": "Vercel",
+    "twitter:image:title": "Vercel OG Image",
+    "twitter:image:content_type": "image/png",
+    "og:title": "Vercel: Build and deploy the best web experiences with the Frontend Cloud \u2013 Vercel",
+    "og:url": "https://vercel.com/home",
+    "og:locale": "en_US",
+    "twitter:image:file_name": "Vercel Home OG.png",
+    "og:image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4JmubmYDJnFtstwHbaZPev/0c3576832aae5b1a4d98c8c9f98863c3/Vercel_Home_OG.png",
+    "twitter:card": "summary_large_image",
+    "og:description": "Vercel's Frontend Cloud gives developers the frameworks, workflows, and infrastructure to build a faster, more personalized web.",
+    "og:type": "website",
+    "twitter:image:width": "1200",
+    "twitter:image:height": "628",
+    "twitter:title": "Vercel: Build and deploy the best web experiences with the Frontend Cloud",
+    "twitter:image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4JmubmYDJnFtstwHbaZPev/0c3576832aae5b1a4d98c8c9f98863c3/Vercel_Home_OG.png"
+  },
+  "technical": {
+    "scrapeId": "4e10c64c-e2c7-4609-a34a-a8203ebaa9e2",
+    "sourceURL": "https://www.vercel.com",
+    "url": "https://vercel.com/",
+    "statusCode": 200,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "images": {
+    "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/favicon.ico",
+    "ogImage": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4JmubmYDJnFtstwHbaZPev/0c3576832aae5b1a4d98c8c9f98863c3/Vercel_Home_OG.png"
+  },
+  "other": {
+    "ogSiteName": "Vercel",
+    "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+    "apple-mobile-web-app-status-bar-style": "default",
+    "ogLocale": "en_US",
+    "ogTitle": "Vercel: Build and deploy the best web experiences with the Frontend Cloud \u2013 Vercel",
+    "next-size-adjust": "",
+    "color-scheme": "dark light",
+    "trace-attributes": "{\"next.appdir\":true}",
+    "apple-mobile-web-app-title": "Vercel",
+    "theme-color": [
+      "#FAFAFA",
+      "#000"
+    ],
+    "ogDescription": "Vercel's Frontend Cloud gives developers the frameworks, workflows, and infrastructure to build a faster, more personalized web.",
+    "mobile-web-app-capable": "yes",
+    "ogUrl": "https://vercel.com/home",
+    "proxyUsed": "basic"
+  },
+  "company": "vercel",
+  "timestamp": "20250604_171347",
+  "url": "https://www.vercel.com",
+  "scrape_status": "success"
+}

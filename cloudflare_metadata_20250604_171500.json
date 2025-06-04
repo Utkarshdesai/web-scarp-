@@ -1,0 +1,41 @@
+{
+  "basic_info": {
+    "description": "Make employees, applications and networks faster and more secure everywhere, while reducing complexity and cost.",
+    "language": "en-us",
+    "title": "Connect, protect, and build everywhere | Cloudflare",
+    "robots": "index"
+  },
+  "social_media": {
+    "og:image": "https://cf-assets.www.cloudflare.com/dzlvafdwdttg/5hEMO0prBW3wDvchZU0iBZ/8e05bb4c55f8906e58d09dbc861c0f22/CF_logo_horizontal_singlecolor_wht.svg",
+    "og:title": "Connect, protect, and build everywhere",
+    "og:description": "Make employees, applications and networks faster and more secure everywhere, while reducing complexity and cost.",
+    "og:url": "https://www.cloudflare.com/"
+  },
+  "technical": {
+    "scrapeId": "e95d980b-6b1b-4add-af78-12ab6452c844",
+    "sourceURL": "https://www.cloudflare.com",
+    "url": "https://www.cloudflare.com/",
+    "statusCode": 200,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "images": {
+    "ogImage": "https://cf-assets.www.cloudflare.com/dzlvafdwdttg/5hEMO0prBW3wDvchZU0iBZ/8e05bb4c55f8906e58d09dbc861c0f22/CF_logo_horizontal_singlecolor_wht.svg",
+    "favicon": "https://www.cloudflare.com/favicon.ico",
+    "X:image": "https://cf-assets.www.cloudflare.com/dzlvafdwdttg/5hEMO0prBW3wDvchZU0iBZ/8e05bb4c55f8906e58d09dbc861c0f22/CF_logo_horizontal_singlecolor_wht.svg",
+    "image": "https://cf-assets.www.cloudflare.com/dzlvafdwdttg/5hEMO0prBW3wDvchZU0iBZ/8e05bb4c55f8906e58d09dbc861c0f22/CF_logo_horizontal_singlecolor_wht.svg"
+  },
+  "other": {
+    "ogDescription": "Make employees, applications and networks faster and more secure everywhere, while reducing complexity and cost.",
+    "viewport": "width=device-width, initial-scale=1",
+    "ogTitle": "Connect, protect, and build everywhere",
+    "X:url": "https://www.cloudflare.com/",
+    "X:title": "Connect, protect, and build everywhere | Cloudflare",
+    "X:description": "Make employees, applications and networks faster and more secure everywhere, while reducing complexity and cost.",
+    "ogUrl": "https://www.cloudflare.com/",
+    "proxyUsed": "basic"
+  },
+  "company": "cloudflare",
+  "timestamp": "20250604_171500",
+  "url": "https://www.cloudflare.com",
+  "scrape_status": "success"
+}
